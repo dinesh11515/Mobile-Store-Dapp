@@ -1,0 +1,27 @@
+{
+  "name": "Mobile_Store_Dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinesh11515/Mobile-Store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinesh11515/Mobile-Store/issues"
+  },
+  "homepage": "https://github.com/dinesh11515/Mobile-Store#readme",
+  "dependencies": {
+    "react-icons": "^4.3.1",
+    "truffle": "^5.5.10"
+  }
+}
